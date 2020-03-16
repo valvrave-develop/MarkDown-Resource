@@ -1,0 +1,6 @@
+*Code | *Name | *RateMode | RoomLevelInventorySupported| SingleLosRateChangeRequired| DeleteRateRequired| RestrictionRequired| RoomOccupancyRequired| InventoryRequired| RateChannelLevel| RestrictionChannelLevel| InventoryChannelLevel| PolicyChannelLevel| ChildFeeType| AdvanceDayLimit| RatePlanMode
+*Code | *Name | *RateMode | InventoryMode|                         SingleLosRateChangeRequired| DeleteRateRequired| RestrictionRequired| RoomOccupancyRequired| RateChannelLevel| RestrictionChannelLevel| InventoryChannelLevel| PolicyChannelLevel| ChildFeeType| AdvanceDayLimit| RatePlanMode
+
+P1|Provider1|DailyRate|NA|false|false|false|false|false|false|false|false|Normal|false|MixMode
+
+fmt.Sprint('c') //会将其转换为数字字符串，最好的方式使用格式化输出
